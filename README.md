@@ -1,14 +1,14 @@
 # 🚀 MiTERAS勤怠残業時間
 
-これは、MiTERAS勤怠の累積残業時間を表示するChrome拡張機能です。
+これは、MiTERAS勤怠の累積残業時間を表示するEdge拡張機能です。
 
 ![Screenshot](./screenshots/login.png)
 
 ## インストール方法
 
-Chromeウェブストアからインストールできます。
+Edgeアドオンストアからインストールできます。
 
-<https://chrome.google.com/webstore/detail/miteras-kintai-helper/mjhjomlbbamhklalmdldbpkagijidlkc>
+<https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home>
 
 ## 使用方法
 

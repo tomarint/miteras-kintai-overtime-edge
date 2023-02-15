@@ -1,11 +1,11 @@
 {
-  "name": "miteras-kintai-overtime",
+  "name": "miteras-kintai-overtime-edge",
   "version": "1.0.1",
   "main": "index.js",
-  "repository": "git@github.com:tomarint/miteras-kintai-overtime.git",
+  "repository": "git@github.com:tomarint/miteras-kintai-overtime-edge.git",
   "author": "tomarin <tomarint@gmail.com>",
   "license": "MIT",
-  "description": "This is a chrome extension that shows accumulated overtime hours in MiTERAS KINTAI.",
+  "description": "This is an edge extension that shows accumulated overtime hours in MiTERAS KINTAI.",
   "scripts": {
     "build": "webpack --mode=production --node-env=production",
     "build:dev": "webpack --mode=development",
