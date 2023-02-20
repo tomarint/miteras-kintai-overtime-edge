@@ -8,7 +8,7 @@
 
 Edgeアドオンストアからインストールできます。
 
-<https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home>
+<https://microsoftedge.microsoft.com/addons/detail/miteras-kintai-overtime/eonjfoebdpkojanlgofmfccnancobaij>
 
 ## 使用方法
 
